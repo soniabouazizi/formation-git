@@ -9,6 +9,6 @@ int main() {
 
     int result = add(3, 4);
     printf("Result = %d\n", result);
-    printf("Hello Sonia");
+   
     return 0;
 }
